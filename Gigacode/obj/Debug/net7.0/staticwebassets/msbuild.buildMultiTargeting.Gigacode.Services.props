@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Gigacode.Services.props" />
+</Project>
