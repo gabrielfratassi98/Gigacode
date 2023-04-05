@@ -2,7 +2,7 @@
 
 namespace Gigacode.Services.Configurations
 {
-    public static class DependencyInjection
+    public static class DependencyInjectionConfig
     {
         public static void RegisterServicesInjection(this IServiceCollection services)
         {
