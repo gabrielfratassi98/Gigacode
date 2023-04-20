@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "O9NguD5eliapADVClRVAYsn0fI2FXFRi4bc4TYFc+Jojtnb/LUGonwW6btuizjmXzU9FkBgTvBEDAwMK3d8fNQ==",
+  "dgSpecHash": "s5vC/fE7+R9SNvfy9KPL3604qWiksPYXU6/9Utj2mCZaDS/IiLBJyiFF1GqzXY4o+HMO02el9U+AZ+zzDFMnKA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabri\\source\\repos\\Gigacode\\Gigacode.Infra.CrossCuting\\Gigacode.Infra.CrossCuting.csproj",
+  "projectFilePath": "C:\\Users\\Gabriel.fratassi\\Source\\Repos\\gabrielfratassi98\\Gigacode\\Gigacode.Infra.CrossCuting\\Gigacode.Infra.CrossCuting.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+    "C:\\Users\\Gabriel.fratassi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }
