@@ -23,6 +23,7 @@
 
 	<ItemGroup>
 		<ProjectReference Include="..\Gigacode.Infra.CrossCuting\Gigacode.Infra.CrossCuting.csproj" />
+		<ProjectReference Include="..\Gigacode.Infra.Repositories\Gigacode.Infra.Data.csproj" />
 	</ItemGroup>
 
 </Project>
