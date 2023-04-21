@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5G0EuDWCfjRFc6Foe5b8eeKxCUmZDnsp4//JScxFiq8VUCteMvoy8yhwzbqAGuh0yrBiPIEmAN53/NUAVV68Gg==",
+  "dgSpecHash": "cfbEkOeeSZ2OzXZsnlTo0qQlMNj+X1/ToJIFursEZYTiwFNX05ElQjhQDRskG3HpilYNxonEOPKd1lzPbOLzjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gabriel.fratassi\\Source\\Repos\\gabrielfratassi98\\Gigacode\\Gigacode\\Gigacode.Services.csproj",
+  "projectFilePath": "C:\\Users\\Gabriel.fratassi\\source\\repos\\gabrielfratassi98\\Gigacode\\Gigacode\\Gigacode.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gabriel.fratassi\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Gabriel.fratassi\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

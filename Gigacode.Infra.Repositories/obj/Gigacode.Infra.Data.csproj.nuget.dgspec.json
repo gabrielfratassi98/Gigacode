@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel.fratassi\\Source\\Repos\\gabrielfratassi98\\Gigacode\\Gigacode.Infra.Repositories\\Gigacode.Infra.Data.csproj": {}
+    "C:\\Users\\Gabriel.fratassi\\source\\repos\\gabrielfratassi98\\Gigacode\\Gigacode.Infra.Repositories\\Gigacode.Infra.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel.fratassi\\Source\\Repos\\gabrielfratassi98\\Gigacode\\Gigacode.Infra.Repositories\\Gigacode.Infra.Data.csproj": {
+    "C:\\Users\\Gabriel.fratassi\\source\\repos\\gabrielfratassi98\\Gigacode\\Gigacode.Infra.Repositories\\Gigacode.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel.fratassi\\Source\\Repos\\gabrielfratassi98\\Gigacode\\Gigacode.Infra.Repositories\\Gigacode.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel.fratassi\\source\\repos\\gabrielfratassi98\\Gigacode\\Gigacode.Infra.Repositories\\Gigacode.Infra.Data.csproj",
         "projectName": "Gigacode.Infra.Data",
-        "projectPath": "C:\\Users\\Gabriel.fratassi\\Source\\Repos\\gabrielfratassi98\\Gigacode\\Gigacode.Infra.Repositories\\Gigacode.Infra.Data.csproj",
+        "projectPath": "C:\\Users\\Gabriel.fratassi\\source\\repos\\gabrielfratassi98\\Gigacode\\Gigacode.Infra.Repositories\\Gigacode.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\Gabriel.fratassi\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Gabriel.fratassi\\Source\\Repos\\gabrielfratassi98\\Gigacode\\Gigacode.Infra.Repositories\\obj\\",
         "projectStyle": "PackageReference",

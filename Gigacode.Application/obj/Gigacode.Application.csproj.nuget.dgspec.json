@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel.fratassi\\Source\\Repos\\gabrielfratassi98\\Gigacode\\Gigacode.Application\\Gigacode.Application.csproj": {}
+    "C:\\Users\\Gabriel.fratassi\\source\\repos\\gabrielfratassi98\\Gigacode\\Gigacode.Application\\Gigacode.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel.fratassi\\Source\\Repos\\gabrielfratassi98\\Gigacode\\Gigacode.Application\\Gigacode.Application.csproj": {
+    "C:\\Users\\Gabriel.fratassi\\source\\repos\\gabrielfratassi98\\Gigacode\\Gigacode.Application\\Gigacode.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel.fratassi\\Source\\Repos\\gabrielfratassi98\\Gigacode\\Gigacode.Application\\Gigacode.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel.fratassi\\source\\repos\\gabrielfratassi98\\Gigacode\\Gigacode.Application\\Gigacode.Application.csproj",
         "projectName": "Gigacode.Application",
-        "projectPath": "C:\\Users\\Gabriel.fratassi\\Source\\Repos\\gabrielfratassi98\\Gigacode\\Gigacode.Application\\Gigacode.Application.csproj",
+        "projectPath": "C:\\Users\\Gabriel.fratassi\\source\\repos\\gabrielfratassi98\\Gigacode\\Gigacode.Application\\Gigacode.Application.csproj",
         "packagesPath": "C:\\Users\\Gabriel.fratassi\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Gabriel.fratassi\\Source\\Repos\\gabrielfratassi98\\Gigacode\\Gigacode.Application\\obj\\",
         "projectStyle": "PackageReference",

@@ -3956,11 +3956,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriel.fratassi\\Source\\Repos\\gabrielfratassi98\\Gigacode\\Gigacode\\Gigacode.Services.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriel.fratassi\\source\\repos\\gabrielfratassi98\\Gigacode\\Gigacode\\Gigacode.Services.csproj",
       "projectName": "Gigacode.Services",
-      "projectPath": "C:\\Users\\Gabriel.fratassi\\Source\\Repos\\gabrielfratassi98\\Gigacode\\Gigacode\\Gigacode.Services.csproj",
+      "projectPath": "C:\\Users\\Gabriel.fratassi\\source\\repos\\gabrielfratassi98\\Gigacode\\Gigacode\\Gigacode.Services.csproj",
       "packagesPath": "C:\\Users\\Gabriel.fratassi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabriel.fratassi\\Source\\Repos\\gabrielfratassi98\\Gigacode\\Gigacode\\obj\\",
+      "outputPath": "C:\\Users\\Gabriel.fratassi\\source\\repos\\gabrielfratassi98\\Gigacode\\Gigacode\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gabriel.fratassi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3977,11 +3977,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Gabriel.fratassi\\Source\\Repos\\gabrielfratassi98\\Gigacode\\Gigacode.Infra.CrossCuting\\Gigacode.Infra.CrossCuting.csproj": {
-              "projectPath": "C:\\Users\\Gabriel.fratassi\\Source\\Repos\\gabrielfratassi98\\Gigacode\\Gigacode.Infra.CrossCuting\\Gigacode.Infra.CrossCuting.csproj"
+            "C:\\Users\\Gabriel.fratassi\\source\\repos\\gabrielfratassi98\\Gigacode\\Gigacode.Infra.CrossCuting\\Gigacode.Infra.CrossCuting.csproj": {
+              "projectPath": "C:\\Users\\Gabriel.fratassi\\source\\repos\\gabrielfratassi98\\Gigacode\\Gigacode.Infra.CrossCuting\\Gigacode.Infra.CrossCuting.csproj"
             },
-            "C:\\Users\\Gabriel.fratassi\\Source\\Repos\\gabrielfratassi98\\Gigacode\\Gigacode.Infra.Repositories\\Gigacode.Infra.Data.csproj": {
-              "projectPath": "C:\\Users\\Gabriel.fratassi\\Source\\Repos\\gabrielfratassi98\\Gigacode\\Gigacode.Infra.Repositories\\Gigacode.Infra.Data.csproj"
+            "C:\\Users\\Gabriel.fratassi\\source\\repos\\gabrielfratassi98\\Gigacode\\Gigacode.Infra.Repositories\\Gigacode.Infra.Data.csproj": {
+              "projectPath": "C:\\Users\\Gabriel.fratassi\\source\\repos\\gabrielfratassi98\\Gigacode\\Gigacode.Infra.Repositories\\Gigacode.Infra.Data.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s5vC/fE7+R9SNvfy9KPL3604qWiksPYXU6/9Utj2mCZaDS/IiLBJyiFF1GqzXY4o+HMO02el9U+AZ+zzDFMnKA==",
+  "dgSpecHash": "mvlkKRkY9TYWcCi6j1ynAd/Hg6YUF8rIDhKg2tskLLFwhPa2h/j1OKeulV9ivfB+xiKe2exgqNslkYC+bL1GQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gabriel.fratassi\\Source\\Repos\\gabrielfratassi98\\Gigacode\\Gigacode.Infra.CrossCuting\\Gigacode.Infra.CrossCuting.csproj",
+  "projectFilePath": "C:\\Users\\Gabriel.fratassi\\source\\repos\\gabrielfratassi98\\Gigacode\\Gigacode.Infra.CrossCuting\\Gigacode.Infra.CrossCuting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gabriel.fratassi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
   ],
