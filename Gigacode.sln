@@ -11,19 +11,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Domain", "2 - Domain", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Infra", "3 - Infra", "{7B6A6718-8B07-4F2B-A9B9-A8E580D1F3B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gigacode.Services", "Gigacode\Gigacode.Services.csproj", "{485022F7-426B-40F5-989B-93DFD081917B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gigacode.Services", "Gigacode\Gigacode.Services.csproj", "{485022F7-426B-40F5-989B-93DFD081917B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gigacode.Application", "Gigacode.Application\Gigacode.Application.csproj", "{4DDE0458-B80E-49D3-9BCF-4927A5F46479}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gigacode.Application", "Gigacode.Application\Gigacode.Application.csproj", "{4DDE0458-B80E-49D3-9BCF-4927A5F46479}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gigacode.Domain", "Gigacode.Domain\Gigacode.Domain.csproj", "{50C528EA-E117-4CE2-911C-1CC3DB7701FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gigacode.Domain", "Gigacode.Domain\Gigacode.Domain.csproj", "{50C528EA-E117-4CE2-911C-1CC3DB7701FC}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.1 - Repositories", "3.1 - Repositories", "{FA5E1134-9E46-484F-8759-1C10BBA73CF2}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.1 - Data", "3.1 - Data", "{FA5E1134-9E46-484F-8759-1C10BBA73CF2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.2 - CrossCuting", "3.2 - CrossCuting", "{2C24C5E4-23BB-4BA5-ACFA-9F0EE9AF8F93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gigacode.Infra.Repositories", "Gigacode.Infra.Repositories\Gigacode.Infra.Repositories.csproj", "{9F7D8B73-DF8A-4A7A-BF9B-F219EA78CE10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gigacode.Infra.Data", "Gigacode.Infra.Repositories\Gigacode.Infra.Data.csproj", "{9F7D8B73-DF8A-4A7A-BF9B-F219EA78CE10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gigacode.Infra.CrossCuting", "Gigacode.Infra.CrossCuting\Gigacode.Infra.CrossCuting.csproj", "{45B997D2-813A-4054-B3B7-8CD4CB221F89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gigacode.Infra.CrossCuting", "Gigacode.Infra.CrossCuting\Gigacode.Infra.CrossCuting.csproj", "{45B997D2-813A-4054-B3B7-8CD4CB221F89}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
