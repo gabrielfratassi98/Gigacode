@@ -78,3 +78,5 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,linux,windows
 /.vs/Gigacode/FileContentIndex/8e82a95b-1df9-4c52-a3bf-77797cb2681d.vsidx
+*.vsidx
+/.vs/slnx.sqlite
