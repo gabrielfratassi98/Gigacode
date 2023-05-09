@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Services", "0 - Services", "{AFD023BD-5586-4954-8ABF-C1D74AF0D7A1}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Services", "1 - Services", "{AFD023BD-5586-4954-8ABF-C1D74AF0D7A1}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Application", "1 - Application", "{75688C79-C103-4604-BE44-58761A5E4310}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Application", "2 - Application", "{75688C79-C103-4604-BE44-58761A5E4310}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Domain", "2 - Domain", "{590DC202-02C8-4D7D-A89C-6F2F2A6B92EF}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Domain", "3 - Domain", "{590DC202-02C8-4D7D-A89C-6F2F2A6B92EF}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Infra", "3 - Infra", "{7B6A6718-8B07-4F2B-A9B9-A8E580D1F3B6}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Infra", "4 - Infra", "{7B6A6718-8B07-4F2B-A9B9-A8E580D1F3B6}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gigacode.Services", "Gigacode\Gigacode.Services.csproj", "{485022F7-426B-40F5-989B-93DFD081917B}"
 EndProject
@@ -24,6 +24,10 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gigacode.Infra.Data", "Gigacode.Infra.Repositories\Gigacode.Infra.Data.csproj", "{9F7D8B73-DF8A-4A7A-BF9B-F219EA78CE10}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gigacode.Infra.CrossCuting", "Gigacode.Infra.CrossCuting\Gigacode.Infra.CrossCuting.csproj", "{45B997D2-813A-4054-B3B7-8CD4CB221F89}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Database", "5 - Database", "{4C557FE0-C218-4B46-891A-38DF66B52CDD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Presentation", "0 - Presentation", "{0F5660ED-B6E2-4A4E-84E9-EA38E0367BB0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
