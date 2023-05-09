@@ -57,26 +57,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Gabriel.fratassi\\.nuget\\packages\\": {}
+    "C:\\Users\\gabri\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriel.fratassi\\Source\\Repos\\gabrielfratassi98\\Gigacode\\Gigacode.Infra.CrossCuting\\Gigacode.Infra.CrossCuting.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\Source\\Repos\\gabrielfratassi98\\Gigacode\\Gigacode.Infra.CrossCuting\\Gigacode.Infra.CrossCuting.csproj",
       "projectName": "Gigacode.Infra.CrossCuting",
-      "projectPath": "C:\\Users\\Gabriel.fratassi\\Source\\Repos\\gabrielfratassi98\\Gigacode\\Gigacode.Infra.CrossCuting\\Gigacode.Infra.CrossCuting.csproj",
-      "packagesPath": "C:\\Users\\Gabriel.fratassi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabriel.fratassi\\Source\\Repos\\gabrielfratassi98\\Gigacode\\Gigacode.Infra.CrossCuting\\obj\\",
+      "projectPath": "C:\\Users\\gabri\\Source\\Repos\\gabrielfratassi98\\Gigacode\\Gigacode.Infra.CrossCuting\\Gigacode.Infra.CrossCuting.csproj",
+      "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gabri\\Source\\Repos\\gabrielfratassi98\\Gigacode\\Gigacode.Infra.CrossCuting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Gabriel.fratassi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
