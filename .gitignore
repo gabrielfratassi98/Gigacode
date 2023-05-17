@@ -117,3 +117,7 @@ $RECYCLE.BIN/
 /Gigacode/obj/project.nuget.cache
 /Gigacode/obj/project.assets.json
 /Gigacode/obj/Gigacode.Services.csproj.nuget.dgspec.json
+/Gigacode/obj/Debug/net7.0/Gigacode.Services.assets.cache
+/Gigacode/obj/Release/net7.0/Gigacode.Services.assets.cache
+/Gigacode/obj/Release/net7.0/Gigacode.Services.assets.cache
+/Gigacode/obj/Gigacode.Services.csproj.nuget.g.props
