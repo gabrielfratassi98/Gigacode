@@ -10,3 +10,15 @@ C:\Users\Gabriel.fratassi\Source\Repos\gabrielfratassi98\Gigacode\Gigacode.Infra
 C:\Users\Gabriel.fratassi\Source\Repos\gabrielfratassi98\Gigacode\Gigacode.Infra.CrossCuting\obj\Debug\net7.0\refint\Gigacode.Infra.CrossCuting.dll
 C:\Users\Gabriel.fratassi\Source\Repos\gabrielfratassi98\Gigacode\Gigacode.Infra.CrossCuting\obj\Debug\net7.0\Gigacode.Infra.CrossCuting.pdb
 C:\Users\Gabriel.fratassi\Source\Repos\gabrielfratassi98\Gigacode\Gigacode.Infra.CrossCuting\obj\Debug\net7.0\ref\Gigacode.Infra.CrossCuting.dll
+C:\Users\gabri\source\repos\gabrielfratassi98\Gigacode\Gigacode.Infra.CrossCuting\bin\Debug\net7.0\Gigacode.Infra.CrossCuting.deps.json
+C:\Users\gabri\source\repos\gabrielfratassi98\Gigacode\Gigacode.Infra.CrossCuting\bin\Debug\net7.0\Gigacode.Infra.CrossCuting.dll
+C:\Users\gabri\source\repos\gabrielfratassi98\Gigacode\Gigacode.Infra.CrossCuting\bin\Debug\net7.0\Gigacode.Infra.CrossCuting.pdb
+C:\Users\gabri\source\repos\gabrielfratassi98\Gigacode\Gigacode.Infra.CrossCuting\obj\Debug\net7.0\Gigacode.Infra.CrossCuting.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\gabrielfratassi98\Gigacode\Gigacode.Infra.CrossCuting\obj\Debug\net7.0\Gigacode.Infra.CrossCuting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\gabrielfratassi98\Gigacode\Gigacode.Infra.CrossCuting\obj\Debug\net7.0\Gigacode.Infra.CrossCuting.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\gabrielfratassi98\Gigacode\Gigacode.Infra.CrossCuting\obj\Debug\net7.0\Gigacode.Infra.CrossCuting.AssemblyInfo.cs
+C:\Users\gabri\source\repos\gabrielfratassi98\Gigacode\Gigacode.Infra.CrossCuting\obj\Debug\net7.0\Gigacode.Infra.CrossCuting.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\gabrielfratassi98\Gigacode\Gigacode.Infra.CrossCuting\obj\Debug\net7.0\Gigacode.Infra.CrossCuting.dll
+C:\Users\gabri\source\repos\gabrielfratassi98\Gigacode\Gigacode.Infra.CrossCuting\obj\Debug\net7.0\refint\Gigacode.Infra.CrossCuting.dll
+C:\Users\gabri\source\repos\gabrielfratassi98\Gigacode\Gigacode.Infra.CrossCuting\obj\Debug\net7.0\Gigacode.Infra.CrossCuting.pdb
+C:\Users\gabri\source\repos\gabrielfratassi98\Gigacode\Gigacode.Infra.CrossCuting\obj\Debug\net7.0\ref\Gigacode.Infra.CrossCuting.dll

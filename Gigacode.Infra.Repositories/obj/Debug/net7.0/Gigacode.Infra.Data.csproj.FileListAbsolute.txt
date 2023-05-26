@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\gabrielfratassi98\Gigacode\Gigacode.Infra.Repositories\bin\Debug\net7.0\Gigacode.Infra.Data.deps.json
+C:\Users\gabri\source\repos\gabrielfratassi98\Gigacode\Gigacode.Infra.Repositories\bin\Debug\net7.0\Gigacode.Infra.Data.runtimeconfig.json
+C:\Users\gabri\source\repos\gabrielfratassi98\Gigacode\Gigacode.Infra.Repositories\bin\Debug\net7.0\Gigacode.Infra.Data.dll
+C:\Users\gabri\source\repos\gabrielfratassi98\Gigacode\Gigacode.Infra.Repositories\bin\Debug\net7.0\Gigacode.Infra.Data.pdb
+C:\Users\gabri\source\repos\gabrielfratassi98\Gigacode\Gigacode.Infra.Repositories\obj\Debug\net7.0\Gigacode.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\gabrielfratassi98\Gigacode\Gigacode.Infra.Repositories\obj\Debug\net7.0\Gigacode.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\gabrielfratassi98\Gigacode\Gigacode.Infra.Repositories\obj\Debug\net7.0\Gigacode.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\gabrielfratassi98\Gigacode\Gigacode.Infra.Repositories\obj\Debug\net7.0\Gigacode.Infra.Data.AssemblyInfo.cs
+C:\Users\gabri\source\repos\gabrielfratassi98\Gigacode\Gigacode.Infra.Repositories\obj\Debug\net7.0\Gigacode.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\gabrielfratassi98\Gigacode\Gigacode.Infra.Repositories\obj\Debug\net7.0\Gigacode.Infra.Data.dll
+C:\Users\gabri\source\repos\gabrielfratassi98\Gigacode\Gigacode.Infra.Repositories\obj\Debug\net7.0\refint\Gigacode.Infra.Data.dll
+C:\Users\gabri\source\repos\gabrielfratassi98\Gigacode\Gigacode.Infra.Repositories\obj\Debug\net7.0\Gigacode.Infra.Data.pdb
+C:\Users\gabri\source\repos\gabrielfratassi98\Gigacode\Gigacode.Infra.Repositories\obj\Debug\net7.0\Gigacode.Infra.Data.genruntimeconfig.cache
+C:\Users\gabri\source\repos\gabrielfratassi98\Gigacode\Gigacode.Infra.Repositories\obj\Debug\net7.0\ref\Gigacode.Infra.Data.dll

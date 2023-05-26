@@ -1,7 +1,7 @@
 ﻿using Gigacode.Infra.Data.Context;
 using Microsoft.EntityFrameworkCore;
 
-namespace Gigacode.Services.Configurations
+namespace Gigacode.Services.ConfigurationsServices
 {
     public static class EntityFramework
     {

@@ -1,6 +1,6 @@
 ﻿using Gigacode.Infra.CrossCuting.DependencyInjection;
 
-namespace Gigacode.Services.Configurations
+namespace Gigacode.Services.ConfigurationsServices
 {
     public static class DependencyInjection
     {
