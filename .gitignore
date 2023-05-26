@@ -121,3 +121,17 @@ $RECYCLE.BIN/
 /Gigacode/obj/Release/net7.0/Gigacode.Services.assets.cache
 /Gigacode/obj/Release/net7.0/Gigacode.Services.assets.cache
 /Gigacode/obj/Gigacode.Services.csproj.nuget.g.props
+/Gigacode.Infra.Repositories/obj/Gigacode.Infra.Data.csproj.nuget.g.props
+/Gigacode.Infra.Repositories/obj/Debug/net7.0/Gigacode.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Gigacode.Infra.Repositories/obj/Debug/net7.0/Gigacode.Infra.Data.assets.cache
+/Gigacode.Infra.CrossCuting/obj/Debug/net7.0/Gigacode.Infra.CrossCuting.assets.cache
+/Gigacode.Infra.CrossCuting/obj/Gigacode.Infra.CrossCuting.csproj.nuget.g.props
+/Gigacode.Infra.CrossCuting/obj/Debug/net7.0/Gigacode.Infra.CrossCuting.GeneratedMSBuildEditorConfig.editorconfig
+/Gigacode.Domain/obj/Debug/net7.0/Gigacode.Domain.assets.cache
+/Gigacode.Domain/obj/Gigacode.Domain.csproj.nuget.g.props
+/Gigacode.Domain/obj/Debug/net7.0/Gigacode.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Gigacode.Application/obj/Debug/net7.0/Gigacode.Application.assets.cache
+/Gigacode/obj/Debug/net7.0/Gigacode.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Gigacode.Application/obj/Debug/net7.0/Gigacode.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Gigacode.Application/obj/Gigacode.Application.csproj.nuget.g.props
+/.vs/Gigacode/FileContentIndex/d2614e53-a985-4c89-8f37-d6c2da3c8dae.vsidx
